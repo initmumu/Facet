@@ -6,7 +6,7 @@ from config import conf
 
 class Facet:
     def __init__(self, datasets):
-        """
+        """DDDDD
         name: Facet 클래스 생성자
         desc: Metadataset들을 매개변수로 하여 Facet class를 생성
         """
