@@ -29,3 +29,6 @@ class FacetExtractor:
         return extracted_date_facet
 
 
+def sentence_extractor(text):
+    okt = Okt()
+    return okt.nouns(text)

@@ -1,5 +1,5 @@
 from pprint import pprint
-from classes.FacetExtractor import FacetExtractor
+from classes.FacetExtractor import FacetExtractor, sentence_extractor
 
 from config import conf
 
@@ -18,6 +18,33 @@ class Facet:
         self.__facet = self.make_facet()
 
     ''' Belows are Logic Methods '''
+    def facet_query(self, text):
+        facet = self.__facet
+        value_keywords = facet["keywords"]
+        query_keyword = sentence_extractor(text)
+        keyindexlist = self.keyword_search(value_keywords,query_keyword)
+        
+        print("query:",text)
+        print("facets:")
+        for i in range(len(keyindexlist)):
+            print(value_keywords[i])
+
+         
+
+    def keyword_search(self,value_keyword,query_keyword):
+        keyindexlist = set()
+        for qk in query_keyword:
+            for i in range(len(value_keyword)):
+                if qk in value_keyword[i]:
+                    keyindexlist.add(i)
+
+        return keyindexlist
+
+    def extract_facet(self,input_text,facets):
+        return 
+
+
+    
 
     ''' Belows are Maker Methods '''
 
@@ -31,7 +58,11 @@ class Facet:
             if key in conf['string_key']:
                 key = 'string'
             facet_value[key] = list()
-
+        
+        facet_value["keywords"] = list()
+        for dataset in self.__original_datasets:
+            facet_value["keywords"].append(dataset["basicMetadata"]["keywords"])
+           
         for dataset in self.__original_datasets:
             for key in self.__facet_key:
                 if key in conf['string_key']:
@@ -39,9 +70,9 @@ class Facet:
                     dataset_key = key
                 else:
                     facet_key = dataset_key = key
-
+                t = dataset["basicMetadata"][dataset_key]
                 facet_value[facet_key].append(dataset["basicMetadata"][dataset_key])
-
+        
         return facet_value
 
     def make_facet(self):
@@ -52,6 +83,8 @@ class Facet:
                 facet[key] = extractor.extract_string_tag(value)
             elif key == 'date':
                 facet[key] = extractor.extract_date_facet(value)
+            elif key == 'keywords':
+                facet[key] = value
 
         return facet
 

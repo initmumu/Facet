@@ -1,0 +1,1665 @@
+{
+            "id": "eb6193e0-2288-11ec-b008-65914240fe8f",
+            "uri": "http://www.gimi9.com/dataset/d33043b6-afe4-490d-b3a7-7dcd86d1d01f",
+            "orgId": "default_org",
+            "type": "dataset",
+            "version": "20211201",
+            "priceType": "others",
+            "state": "registered",
+            "representativeCategoryId": "default_harvesting_category",
+            "harvestJobId": "ea2b36c0-2288-11ec-b37d-57548b27c8f3",
+            "extras": [
+                {
+                    "key": "author",
+                    "value": "택지정보"
+                },
+                {
+                    "key": "creator_user_id",
+                    "value": "8a1babfe-6c34-4304-ac30-7ff585c9c842"
+                },
+                {
+                    "key": "id",
+                    "value": "d33043b6-afe4-490d-b3a7-7dcd86d1d01f"
+                },
+                {
+                    "key": "isopen",
+                    "value": "true"
+                },
+                {
+                    "key": "license_id",
+                    "value": "cc-zero"
+                },
+                {
+                    "key": "license_title",
+                    "value": "Creative Commons CCZero"
+                },
+                {
+                    "key": "name",
+                    "value": "jigu-go-kr-bls5_dstrc_house"
+                },
+                {
+                    "key": "num_resources",
+                    "value": "1"
+                },
+                {
+                    "key": "organization",
+                    "value": "{\"id\":\"c203408e-3ab3-46bb-adc2-a62fe141fdb9\",\"name\":\"jigu-go-kr\",\"title\":\"8.LH 택지정보\",\"type\":\"organization\",\"description\":\"택지정보 다운로드. 공간정보.\",\"image_url\":\"https://www.jigu.go.kr/images/logo.png\",\"created\":\"2021-01-28T07:27:14.157803\",\"is_organization\":true,\"approval_status\":\"approved\",\"state\":\"active\"}"
+                },
+                {
+                    "key": "owner_org",
+                    "value": "c203408e-3ab3-46bb-adc2-a62fe141fdb9"
+                },
+                {
+                    "key": "state",
+                    "value": "active"
+                },
+                {
+                    "key": "url",
+                    "value": "https://openapi.jigu.go.kr/down/detail.do?table=BLS5_DSTRC_HOUSE"
+                },
+                {
+                    "key": "version",
+                    "value": "2021-07-28"
+                },
+                {
+                    "key": "resources",
+                    "value": "[{\"cache_last_updated\":null,\"cache_url\":null,\"created\":\"2021-07-30T14:07:50.509260\",\"description\":\"txt, csv 파일 다운로드 링크\",\"format\":\"CSV\",\"hash\":\"\",\"id\":\"3e6782bb-2b4a-4909-a305-eac537929956\",\"last_modified\":null,\"metadata_modified\":\"2021-07-30T14:07:50.495048\",\"mimetype\":null,\"mimetype_inner\":null,\"name\":\"주택건설계획 LINK\",\"package_id\":\"d33043b6-afe4-490d-b3a7-7dcd86d1d01f\",\"position\":0,\"resource_type\":null,\"size\":null,\"state\":\"active\",\"url\":\"https://openapi.jigu.go.kr/down/detail.do?table=BLS5_DSTRC_HOUSE\",\"url_type\":null}]"
+                },
+                {
+                    "key": "groups",
+                    "value": "[]"
+                },
+                {
+                    "key": "relationships_as_subject",
+                    "value": "[]"
+                },
+                {
+                    "key": "relationships_as_object",
+                    "value": "[]"
+                },
+                {
+                    "key": "이용조건",
+                    "value": "로그인 없이 다운로드"
+                }
+            ],
+            "basicMetadata": [
+                {
+                    "id": "eb62a550-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6193e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:accessRights",
+                    "value": [
+                        {
+                            "@id": "http://purl.org/eprint/accessRights/OpenAccess"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.156Z"
+                },
+                {
+                    "id": "eb62a551-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6193e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:keyword",
+                    "value": [
+                        {
+                            "@value": "LH"
+                        },
+                        {
+                            "@value": "주택건설계획"
+                        },
+                        {
+                            "@value": "택지"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.156Z"
+                },
+                {
+                    "id": "eb62a552-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6193e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:theme",
+                    "value": [
+                        {
+                            "@id": "default_harvesting_category"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.156Z"
+                },
+                {
+                    "id": "eb62a553-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6193e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Dataset",
+                    "propertyId": "dcterms:spatial",
+                    "value": [
+                        {
+                            "@type": "dcterms:Location",
+                            "wgs84_pos:lat": "38.032357544877996",
+                            "wgs84_pos:long": "124.83659755585886"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.156Z"
+                },
+                {
+                    "id": "eb62a554-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6193e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:title",
+                    "value": [
+                        {
+                            "@value": "택지정보 - 주택건설계획"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.156Z"
+                },
+                {
+                    "id": "eb62a555-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6193e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:description",
+                    "value": [
+                        {
+                            "@value": "택지정보시스템에서 고시월별, 광역시도별 다운로드"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.156Z"
+                },
+                {
+                    "id": "eb62a556-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6193e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:license",
+                    "value": [
+                        {
+                            "@id": "http://www.opendefinition.org/licenses/cc-zero"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.156Z"
+                },
+                {
+                    "id": "eb62a557-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6193e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:issued",
+                    "value": [
+                        {
+                            "@value": "2021-01-30T15:43:49.997237"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.156Z"
+                },
+                {
+                    "id": "eb62a558-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6193e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:modified",
+                    "value": [
+                        {
+                            "@value": "2021-07-30T14:07:50.489505"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.156Z"
+                },
+                {
+                    "id": "eb62a559-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6193e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:type",
+                    "value": [
+                        {
+                            "@id": "dataset"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.156Z"
+                }
+            ],
+            "extendedMetadata": [],
+            "priceMetadata": [],
+            "issuerId": "pf_admin",
+            "issued": "2021-10-01T07:26:40.156Z",
+            "modifierId": "pf_admin",
+            "modified": "2021-10-01T07:29:07.074Z",
+            "harvestSourceId": "23f71475-20d9-11ec-a446-1ff7ec62d81a",
+            "purchases": 1,
+            "likes": 1,
+            "location": [
+                {
+                    "lat": 38.032357544877996,
+                    "lon": 124.83659755585886
+                }
+            ]
+        },
+        {
+            "id": "eb6b57e0-2288-11ec-b008-65914240fe8f",
+            "uri": "http://www.gimi9.com/dataset/7de8b0be-ff06-4ece-bbab-b8e90779caa9",
+            "orgId": "default_org",
+            "type": "dataset",
+            "version": "20211201",
+            "priceType": "others",
+            "state": "registered",
+            "representativeCategoryId": "default_harvesting_category",
+            "harvestJobId": "ea2b36c0-2288-11ec-b37d-57548b27c8f3",
+            "extras": [
+                {
+                    "key": "author",
+                    "value": "택지정보"
+                },
+                {
+                    "key": "creator_user_id",
+                    "value": "8a1babfe-6c34-4304-ac30-7ff585c9c842"
+                },
+                {
+                    "key": "id",
+                    "value": "7de8b0be-ff06-4ece-bbab-b8e90779caa9"
+                },
+                {
+                    "key": "isopen",
+                    "value": "true"
+                },
+                {
+                    "key": "license_id",
+                    "value": "cc-zero"
+                },
+                {
+                    "key": "license_title",
+                    "value": "Creative Commons CCZero"
+                },
+                {
+                    "key": "name",
+                    "value": "jigu-go-kr-bls5_dstrc_progrs_hist"
+                },
+                {
+                    "key": "num_resources",
+                    "value": "1"
+                },
+                {
+                    "key": "organization",
+                    "value": "{\"id\":\"c203408e-3ab3-46bb-adc2-a62fe141fdb9\",\"name\":\"jigu-go-kr\",\"title\":\"8.LH 택지정보\",\"type\":\"organization\",\"description\":\"택지정보 다운로드. 공간정보.\",\"image_url\":\"https://www.jigu.go.kr/images/logo.png\",\"created\":\"2021-01-28T07:27:14.157803\",\"is_organization\":true,\"approval_status\":\"approved\",\"state\":\"active\"}"
+                },
+                {
+                    "key": "owner_org",
+                    "value": "c203408e-3ab3-46bb-adc2-a62fe141fdb9"
+                },
+                {
+                    "key": "state",
+                    "value": "active"
+                },
+                {
+                    "key": "url",
+                    "value": "https://openapi.jigu.go.kr/down/detail.do?table=BLS5_DSTRC_PROGRS_HIST"
+                },
+                {
+                    "key": "version",
+                    "value": "2021-07-28"
+                },
+                {
+                    "key": "resources",
+                    "value": "[{\"cache_last_updated\":null,\"cache_url\":null,\"created\":\"2021-07-30T14:07:50.133019\",\"description\":\"txt, csv 파일 다운로드 링크\",\"format\":\"CSV\",\"hash\":\"\",\"id\":\"b9293294-69ab-4545-a11b-e12cbe74289b\",\"last_modified\":null,\"metadata_modified\":\"2021-07-30T14:07:50.119716\",\"mimetype\":null,\"mimetype_inner\":null,\"name\":\"지구정보진행이력 LINK\",\"package_id\":\"7de8b0be-ff06-4ece-bbab-b8e90779caa9\",\"position\":0,\"resource_type\":null,\"size\":null,\"state\":\"active\",\"url\":\"https://openapi.jigu.go.kr/down/detail.do?table=BLS5_DSTRC_PROGRS_HIST\",\"url_type\":null}]"
+                },
+                {
+                    "key": "groups",
+                    "value": "[]"
+                },
+                {
+                    "key": "relationships_as_subject",
+                    "value": "[]"
+                },
+                {
+                    "key": "relationships_as_object",
+                    "value": "[]"
+                },
+                {
+                    "key": "이용조건",
+                    "value": "로그인 없이 다운로드"
+                }
+            ],
+            "basicMetadata": [
+                {
+                    "id": "eb6c4240-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6b57e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:accessRights",
+                    "value": [
+                        {
+                            "@id": "http://purl.org/eprint/accessRights/OpenAccess"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.220Z"
+                },
+                {
+                    "id": "eb6c4241-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6b57e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:keyword",
+                    "value": [
+                        {
+                            "@value": "LH"
+                        },
+                        {
+                            "@value": "지구정보진행이력"
+                        },
+                        {
+                            "@value": "택지"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.220Z"
+                },
+                {
+                    "id": "eb6c4242-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6b57e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:theme",
+                    "value": [
+                        {
+                            "@id": "default_harvesting_category"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.220Z"
+                },
+                {
+                    "id": "eb6c4243-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6b57e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Dataset",
+                    "propertyId": "dcterms:spatial",
+                    "value": [
+                        {
+                            "@type": "dcterms:Location",
+                            "wgs84_pos:lat": "34.46916048728794",
+                            "wgs84_pos:long": "133.30424614088795"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.220Z"
+                },
+                {
+                    "id": "eb6c4244-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6b57e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:title",
+                    "value": [
+                        {
+                            "@value": "택지정보 - 지구정보진행이력"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.220Z"
+                },
+                {
+                    "id": "eb6c4245-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6b57e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:description",
+                    "value": [
+                        {
+                            "@value": "택지정보시스템에서 고시월별, 광역시도별 다운로드"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.220Z"
+                },
+                {
+                    "id": "eb6c4246-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6b57e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:license",
+                    "value": [
+                        {
+                            "@id": "http://www.opendefinition.org/licenses/cc-zero"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.220Z"
+                },
+                {
+                    "id": "eb6c4247-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6b57e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:issued",
+                    "value": [
+                        {
+                            "@value": "2021-01-30T15:44:02.801587"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.220Z"
+                },
+                {
+                    "id": "eb6c4248-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6b57e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:modified",
+                    "value": [
+                        {
+                            "@value": "2021-07-30T14:07:50.115523"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.220Z"
+                },
+                {
+                    "id": "eb6c4249-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb6b57e0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:type",
+                    "value": [
+                        {
+                            "@id": "dataset"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:40.220Z"
+                }
+            ],
+            "extendedMetadata": [],
+            "priceMetadata": [],
+            "issuerId": "pf_admin",
+            "issued": "2021-10-01T07:26:40.220Z",
+            "modifierId": "pf_admin",
+            "modified": "2021-10-01T07:29:07.074Z",
+            "harvestSourceId": "23f71475-20d9-11ec-a446-1ff7ec62d81a",
+            "purchases": 1,
+            "likes": 1,
+            "location": [
+                {
+                    "lat": 34.46916048728794,
+                    "lon": 133.30424614088795
+                }
+            ]
+        },
+        {
+            "id": "48dd9710-2281-11ec-b37d-57548b27c8f3",
+            "orgId": "default_org",
+            "type": "dataset",
+            "priceType": "free",
+            "state": "discarding",
+            "representativeCategoryId": "2eec0220-2280-11ec-b37d-57548b27c8f3",
+            "extras": [],
+            "basicMetadata": [
+                {
+                    "id": "48de3350-2281-11ec-b37d-57548b27c8f3",
+                    "assetId": "48dd9710-2281-11ec-b37d-57548b27c8f3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:contactPoint",
+                    "value": [
+                        {
+                            "@type": "vcard:Kind",
+                            "vcard:fn": [
+                                {
+                                    "@value": "General User"
+                                }
+                            ],
+                            "vcard:hasEmail": [
+                                {
+                                    "@value": "user@sodas.etri.re.kr"
+                                }
+                            ]
+                        }
+                    ],
+                    "issuerId": "user",
+                    "issued": "2021-10-01T06:32:01.025Z"
+                },
+                {
+                    "id": "48de3351-2281-11ec-b37d-57548b27c8f3",
+                    "assetId": "48dd9710-2281-11ec-b37d-57548b27c8f3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:title",
+                    "value": [
+                        {
+                            "@value": "경기도 하남시 박물관 소장 유물",
+                            "@language": "ko"
+                        }
+                    ],
+                    "issuerId": "user",
+                    "issued": "2021-10-01T06:32:01.025Z"
+                },
+                {
+                    "id": "48de3352-2281-11ec-b37d-57548b27c8f3",
+                    "assetId": "48dd9710-2281-11ec-b37d-57548b27c8f3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:accessRights",
+                    "value": [
+                        {
+                            "@id": "http://purl.org/eprint/accessRights/OpenAccess"
+                        }
+                    ],
+                    "issuerId": "user",
+                    "issued": "2021-10-01T06:32:01.025Z"
+                },
+                {
+                    "id": "48de3353-2281-11ec-b37d-57548b27c8f3",
+                    "assetId": "48dd9710-2281-11ec-b37d-57548b27c8f3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:description",
+                    "value": [
+                        {
+                            "@value": "설명",
+                            "@language": "ko"
+                        }
+                    ],
+                    "issuerId": "user",
+                    "issued": "2021-10-01T06:32:01.025Z"
+                },
+                {
+                    "id": "48de3354-2281-11ec-b37d-57548b27c8f3",
+                    "assetId": "48dd9710-2281-11ec-b37d-57548b27c8f3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:theme",
+                    "value": [
+                        {
+                            "@id": "2eec0220-2280-11ec-b37d-57548b27c8f3"
+                        }
+                    ],
+                    "issuerId": "user",
+                    "issued": "2021-10-01T06:32:01.025Z"
+                }
+            ],
+            "extendedMetadata": [],
+            "priceMetadata": [],
+            "issuerId": "user",
+            "issued": "2021-10-01T06:32:01.025Z",
+            "modifierId": "user",
+            "modified": "2021-10-01T08:09:07.797Z",
+            "purchases": 1,
+            "likes": 1
+        },
+        {
+            "id": "e8bc9c00-fa4e-11eb-af21-fd983a354de3",
+            "orgId": "org1",
+            "imagePath": "images/e8bc9c01-fa4e-11eb-af21-fd983a354de3.png",
+            "type": "dataset",
+            "priceType": "paid",
+            "state": "registered",
+            "representativeCategoryId": "example_category11",
+            "extras": [],
+            "basicMetadata": [
+                {
+                    "id": "8be75b80-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "e8bc9c00-fa4e-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:license",
+                    "value": [
+                        {
+                            "@id": "https://opensource.org/licenses/Apache-1.1"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:37:35.539Z"
+                },
+                {
+                    "id": "8be75b81-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "e8bc9c00-fa4e-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:contactPoint",
+                    "value": [
+                        {
+                            "@type": "vcard:Kind",
+                            "vcard:fn": [
+                                {
+                                    "@value": "Org Member"
+                                }
+                            ],
+                            "vcard:hasEmail": [
+                                {
+                                    "@value": "org_member@sodas.etri.re.kr"
+                                }
+                            ]
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:37:35.539Z"
+                },
+                {
+                    "id": "8be75b82-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "e8bc9c00-fa4e-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:title",
+                    "value": [
+                        {
+                            "@value": "50cell LTE 유동인구 데이터",
+                            "@language": "ko"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:37:35.539Z"
+                },
+                {
+                    "id": "8be75b83-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "e8bc9c00-fa4e-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:accessRights",
+                    "value": [
+                        {
+                            "@id": "http://purl.org/eprint/accessRights/OpenAccess"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:37:35.539Z"
+                },
+                {
+                    "id": "8be75b84-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "e8bc9c00-fa4e-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:rights",
+                    "value": [
+                        {
+                            "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:37:35.539Z"
+                },
+                {
+                    "id": "8be75b85-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "e8bc9c00-fa4e-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:description",
+                    "value": [
+                        {
+                            "@value": "-전국을 50x50m cell 기준으로 유동인구 집계  -cell 좌표, 시간대별 숫자, 성별/연령별 유동인구 수 포함",
+                            "@language": "ko"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:37:35.539Z"
+                },
+                {
+                    "id": "8be75b86-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "e8bc9c00-fa4e-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:theme",
+                    "value": [
+                        {
+                            "@id": "example_category11"
+                        },
+                        {
+                            "@id": "example_category12"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:37:35.539Z"
+                }
+            ],
+            "extendedMetadata": [],
+            "priceMetadata": [],
+            "issuerId": "org_member",
+            "issued": "2021-08-11T02:50:38.400Z",
+            "modifierId": "pf_admin",
+            "modified": "2021-09-27T09:37:35.539Z",
+            "purchases": 1,
+            "likes": 1
+        },
+        {
+            "id": "60b3cf20-fa4b-11eb-af21-fd983a354de3",
+            "orgId": "default_org",
+            "imagePath": "images/60b3cf21-fa4b-11eb-af21-fd983a354de3.png",
+            "type": "dataset",
+            "priceType": "paid",
+            "state": "registered",
+            "representativeCategoryId": "190f9f21-0084-11ec-94e6-4bd7efdfb327",
+            "extras": [],
+            "basicMetadata": [
+                {
+                    "id": "2442ce51-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "60b3cf20-fa4b-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Dataset",
+                    "propertyId": "dcterms:accrualPeriodicity",
+                    "value": [
+                        {
+                            "@id": "http://purl.org/cld/freq/quarterly"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:41:51.149Z"
+                },
+                {
+                    "id": "2442ce52-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "60b3cf20-fa4b-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:contactPoint",
+                    "value": [
+                        {
+                            "@type": "vcard:Kind",
+                            "vcard:fn": [
+                                {
+                                    "@value": "user user"
+                                }
+                            ],
+                            "vcard:hasEmail": [
+                                {
+                                    "@value": "user@sodas.etri.re.kr"
+                                }
+                            ]
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:41:51.149Z"
+                },
+                {
+                    "id": "2442ce53-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "60b3cf20-fa4b-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:title",
+                    "value": [
+                        {
+                            "@value": "GIS데이터",
+                            "@language": "ko"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:41:51.149Z"
+                },
+                {
+                    "id": "2442ce54-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "60b3cf20-fa4b-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:accessRights",
+                    "value": [
+                        {
+                            "@id": "http://purl.org/eprint/accessRights/OpenAccess"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:41:51.149Z"
+                },
+                {
+                    "id": "2442ce55-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "60b3cf20-fa4b-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:rights",
+                    "value": [
+                        {
+                            "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:41:51.149Z"
+                },
+                {
+                    "id": "2442ce56-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "60b3cf20-fa4b-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:description",
+                    "value": [
+                        {
+                            "@value": "고품질 배경 지도   \n• 도심지 1/5,000 수치 지형도 기반의 정밀 지도 배경 데이터   • 실제 형상에 근접한 사실적인 건물형상과 도로, 하천 모습 표현 ■ 최신 도로 정보   • 매년 정기 현장 실사를 통해 전국 약 35만 km의 도로 네트워크① 제공   • 도로 세부종류, 도로명칭, 통행구분 등 다양한 속성 정보 제공 ■ 고객 맞춤형 목적지 검색 엔진   • KT만의 인프라 및 폭넓은 제휴를 통해 540만건의 풍부한 POI② 데이터   • 변경된 데이터의 체계적 수집과 신속한 업데이트 ■ 실시간 교통정보 및 차량 특성(화물,소방) 반영된 길안내   • 실시간 교통정보 데이터 수집 및 1분 단위의 실시간 교통정보 반영   • Dynamic한 교통정보 상황을 반영한 길안내(경로탐색) 제공  • 데이터 제공 - 연간 라이선스 / 1회 제공 • API 제공 - 일 사용량에 따른 가격 정책  • 배달 / 운송 - 배송 경로 및 시간 측정 • 내비 - 지도 원도 기반 차량 내비 제공 • 차량 관제 - 물류, 화물 위치정도 제공 • 유동인구/상권분석 - 시간/요일별 정보 • 커넥티드 카 - 고해상지도, 맞춤형 데이터",
+                            "@language": "ko"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:41:51.149Z"
+                },
+                {
+                    "id": "2442ce57-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "60b3cf20-fa4b-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:theme",
+                    "value": [
+                        {
+                            "@id": "190f9f21-0084-11ec-94e6-4bd7efdfb327"
+                        },
+                        {
+                            "@id": "6d41e1c1-0084-11ec-94e6-4bd7efdfb327"
+                        },
+                        {
+                            "@id": "cd32bbe1-0084-11ec-94e6-4bd7efdfb327"
+                        },
+                        {
+                            "@id": "e33531c1-0084-11ec-94e6-4bd7efdfb327"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:41:51.149Z"
+                },
+                {
+                    "id": "2442ce50-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "60b3cf20-fa4b-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:license",
+                    "value": [
+                        {
+                            "@id": "https://opensource.org/licenses/AAL"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:41:51.149Z"
+                }
+            ],
+            "extendedMetadata": [],
+            "priceMetadata": [],
+            "issuerId": "user",
+            "issued": "2021-08-11T02:25:21.682Z",
+            "modifierId": "pf_admin",
+            "modified": "2021-09-27T09:41:51.149Z",
+            "purchases": 1,
+            "likes": 1
+        },
+        {
+            "id": "eaffebe0-2288-11ec-b008-65914240fe8f",
+            "uri": "http://www.gimi9.com/dataset/c9a028b8-ce9f-42c6-8c0f-b40eee93aca9",
+            "orgId": "default_org",
+            "type": "dataset",
+            "version": "20211201",
+            "priceType": "others",
+            "state": "registered",
+            "representativeCategoryId": "default_harvesting_category",
+            "harvestJobId": "ea2b36c0-2288-11ec-b37d-57548b27c8f3",
+            "extras": [
+                {
+                    "key": "author",
+                    "value": "택지정보"
+                },
+                {
+                    "key": "creator_user_id",
+                    "value": "8a1babfe-6c34-4304-ac30-7ff585c9c842"
+                },
+                {
+                    "key": "id",
+                    "value": "c9a028b8-ce9f-42c6-8c0f-b40eee93aca9"
+                },
+                {
+                    "key": "isopen",
+                    "value": "true"
+                },
+                {
+                    "key": "license_id",
+                    "value": "cc-zero"
+                },
+                {
+                    "key": "license_title",
+                    "value": "Creative Commons CCZero"
+                },
+                {
+                    "key": "name",
+                    "value": "jigu-go-kr-bls5_dstrc_info"
+                },
+                {
+                    "key": "num_resources",
+                    "value": "1"
+                },
+                {
+                    "key": "organization",
+                    "value": "{\"id\":\"c203408e-3ab3-46bb-adc2-a62fe141fdb9\",\"name\":\"jigu-go-kr\",\"title\":\"8.LH 택지정보\",\"type\":\"organization\",\"description\":\"택지정보 다운로드. 공간정보.\",\"image_url\":\"https://www.jigu.go.kr/images/logo.png\",\"created\":\"2021-01-28T07:27:14.157803\",\"is_organization\":true,\"approval_status\":\"approved\",\"state\":\"active\"}"
+                },
+                {
+                    "key": "owner_org",
+                    "value": "c203408e-3ab3-46bb-adc2-a62fe141fdb9"
+                },
+                {
+                    "key": "state",
+                    "value": "active"
+                },
+                {
+                    "key": "url",
+                    "value": "https://openapi.jigu.go.kr/down/detail.do?table=BLS5_DSTRC_INFO"
+                },
+                {
+                    "key": "version",
+                    "value": "2021-07-28"
+                },
+                {
+                    "key": "resources",
+                    "value": "[{\"cache_last_updated\":null,\"cache_url\":null,\"created\":\"2021-07-30T14:07:52.428892\",\"description\":\"txt, csv 파일 다운로드 링크\",\"format\":\"CSV\",\"hash\":\"\",\"id\":\"2611f443-9965-4c21-b1a0-6b54b5544b72\",\"last_modified\":null,\"metadata_modified\":\"2021-07-30T14:07:52.415050\",\"mimetype\":null,\"mimetype_inner\":null,\"name\":\"지구정보 LINK\",\"package_id\":\"c9a028b8-ce9f-42c6-8c0f-b40eee93aca9\",\"position\":0,\"resource_type\":null,\"size\":null,\"state\":\"active\",\"url\":\"https://openapi.jigu.go.kr/down/detail.do?table=BLS5_DSTRC_INFO\",\"url_type\":null}]"
+                },
+                {
+                    "key": "groups",
+                    "value": "[]"
+                },
+                {
+                    "key": "relationships_as_subject",
+                    "value": "[]"
+                },
+                {
+                    "key": "relationships_as_object",
+                    "value": "[]"
+                },
+                {
+                    "key": "이용조건",
+                    "value": "로그인 없이 다운로드"
+                }
+            ],
+            "basicMetadata": [
+                {
+                    "id": "eb025ce0-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eaffebe0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:accessRights",
+                    "value": [
+                        {
+                            "@id": "http://purl.org/eprint/accessRights/OpenAccess"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.513Z"
+                },
+                {
+                    "id": "eb025ce1-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eaffebe0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:keyword",
+                    "value": [
+                        {
+                            "@value": "LH"
+                        },
+                        {
+                            "@value": "지구정보"
+                        },
+                        {
+                            "@value": "택지"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.513Z"
+                },
+                {
+                    "id": "eb025ce2-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eaffebe0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:theme",
+                    "value": [
+                        {
+                            "@id": "default_harvesting_category"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.513Z"
+                },
+                {
+                    "id": "eb025ce3-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eaffebe0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Dataset",
+                    "propertyId": "dcterms:spatial",
+                    "value": [
+                        {
+                            "@type": "dcterms:Location",
+                            "wgs84_pos:lat": "36.942602155237346",
+                            "wgs84_pos:long": "129.6465681907224"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.513Z"
+                },
+                {
+                    "id": "eb025ce4-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eaffebe0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:title",
+                    "value": [
+                        {
+                            "@value": "택지정보 - 지구정보"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.513Z"
+                },
+                {
+                    "id": "eb025ce5-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eaffebe0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:description",
+                    "value": [
+                        {
+                            "@value": "택지정보시스템에서 고시월별, 광역시도별 다운로드"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.513Z"
+                },
+                {
+                    "id": "eb025ce6-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eaffebe0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:license",
+                    "value": [
+                        {
+                            "@id": "http://www.opendefinition.org/licenses/cc-zero"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.513Z"
+                },
+                {
+                    "id": "eb025ce7-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eaffebe0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:issued",
+                    "value": [
+                        {
+                            "@value": "2021-01-30T15:43:51.135970"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.513Z"
+                },
+                {
+                    "id": "eb025ce8-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eaffebe0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:modified",
+                    "value": [
+                        {
+                            "@value": "2021-07-30T14:07:52.410595"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.513Z"
+                },
+                {
+                    "id": "eb025ce9-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eaffebe0-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:type",
+                    "value": [
+                        {
+                            "@id": "dataset"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.513Z"
+                }
+            ],
+            "extendedMetadata": [],
+            "priceMetadata": [],
+            "issuerId": "pf_admin",
+            "issued": "2021-10-01T07:26:39.513Z",
+            "modifierId": "pf_admin",
+            "modified": "2021-10-01T07:29:07.074Z",
+            "harvestSourceId": "23f71475-20d9-11ec-a446-1ff7ec62d81a",
+            "purchases": 1,
+            "likes": 1,
+            "location": [
+                {
+                    "lat": 36.942602155237346,
+                    "lon": 129.6465681907224
+                }
+            ]
+        },
+        {
+            "id": "a4295c30-fa4a-11eb-af21-fd983a354de3",
+            "orgId": "default_org",
+            "imagePath": "images/a4295c31-fa4a-11eb-af21-fd983a354de3.jpg",
+            "type": "dataset",
+            "priceType": "paid",
+            "state": "registered",
+            "representativeCategoryId": "example_category11",
+            "extras": [],
+            "basicMetadata": [
+                {
+                    "id": "4465bc10-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "a4295c30-fa4a-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Dataset",
+                    "propertyId": "dcterms:temporal",
+                    "value": [
+                        {
+                            "@type": "dcterms:PeriodOfTime",
+                            "dcat:endDate": "2021-09-12",
+                            "dcat:startDate": "2021-08-12"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:42:45.068Z"
+                },
+                {
+                    "id": "4465bc11-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "a4295c30-fa4a-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Dataset",
+                    "propertyId": "dcterms:accrualPeriodicity",
+                    "value": [
+                        {
+                            "@id": "http://purl.org/cld/freq/monthly"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:42:45.068Z"
+                },
+                {
+                    "id": "4465bc12-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "a4295c30-fa4a-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:contactPoint",
+                    "value": [
+                        {
+                            "@type": "vcard:Kind",
+                            "vcard:fn": [
+                                {
+                                    "@value": "user user"
+                                }
+                            ],
+                            "vcard:hasEmail": [
+                                {
+                                    "@value": "user@sodas.etri.re.kr"
+                                }
+                            ]
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:42:45.068Z"
+                },
+                {
+                    "id": "4465bc13-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "a4295c30-fa4a-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:title",
+                    "value": [
+                        {
+                            "@value": "온라인배달 가맹점 정보",
+                            "@language": "ko"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:42:45.068Z"
+                },
+                {
+                    "id": "4465bc14-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "a4295c30-fa4a-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:accessRights",
+                    "value": [
+                        {
+                            "@id": "http://purl.org/eprint/accessRights/OpenAccess"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:42:45.068Z"
+                },
+                {
+                    "id": "4465bc15-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "a4295c30-fa4a-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:rights",
+                    "value": [
+                        {
+                            "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:42:45.068Z"
+                },
+                {
+                    "id": "4465bc16-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "a4295c30-fa4a-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:description",
+                    "value": [
+                        {
+                            "@value": "온라인 요식 배달업체(배민, 요기요, 배달통 등) 결제정보 등을 활용하여 배달 음식점의 특성 파악 가능",
+                            "@language": "ko"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:42:45.068Z"
+                },
+                {
+                    "id": "4465bc17-1f77-11ec-a7b4-43546e7607c9",
+                    "assetId": "a4295c30-fa4a-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:theme",
+                    "value": [
+                        {
+                            "@id": "example_category11"
+                        },
+                        {
+                            "@id": "example_category111"
+                        },
+                        {
+                            "@id": "example_category12"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:42:45.068Z"
+                }
+            ],
+            "extendedMetadata": [],
+            "priceMetadata": [
+                {
+                    "usablePeriod": 1,
+                    "usablePeriodUnit": "years",
+                    "validStart": "2021-03-01",
+                    "validEnd": "2022-03-01",
+                    "price": 18000000,
+                    "priceUnit": "KRW",
+                    "pricePolicy": "[데이터 범위]  - 지역별 요식업종 가맹점의 배달업체(배민, 요기요 등)를 통한 매출 발생 시점 이용고객 특성, 매출 등 분석 정보   1) 대상지역 : 1개 광역시도(선택)"
+                }
+            ],
+            "issuerId": "user",
+            "issued": "2021-08-11T02:20:05.363Z",
+            "modifierId": "pf_admin",
+            "modified": "2021-09-27T09:42:45.068Z",
+            "purchases": 1,
+            "likes": 1
+        },
+        {
+            "id": "eb31f860-2288-11ec-b008-65914240fe8f",
+            "uri": "http://www.gimi9.com/dataset/186efdc6-7f2e-4934-8a52-03038e08458e",
+            "orgId": "default_org",
+            "type": "dataset",
+            "version": "20211201",
+            "priceType": "others",
+            "state": "registered",
+            "representativeCategoryId": "default_harvesting_category",
+            "harvestJobId": "ea2b36c0-2288-11ec-b37d-57548b27c8f3",
+            "extras": [
+                {
+                    "key": "author",
+                    "value": "택지정보"
+                },
+                {
+                    "key": "creator_user_id",
+                    "value": "8a1babfe-6c34-4304-ac30-7ff585c9c842"
+                },
+                {
+                    "key": "id",
+                    "value": "186efdc6-7f2e-4934-8a52-03038e08458e"
+                },
+                {
+                    "key": "isopen",
+                    "value": "true"
+                },
+                {
+                    "key": "license_id",
+                    "value": "cc-zero"
+                },
+                {
+                    "key": "license_title",
+                    "value": "Creative Commons CCZero"
+                },
+                {
+                    "key": "name",
+                    "value": "jigu-go-kr-bls5_dstrc_step"
+                },
+                {
+                    "key": "num_resources",
+                    "value": "1"
+                },
+                {
+                    "key": "organization",
+                    "value": "{\"id\":\"c203408e-3ab3-46bb-adc2-a62fe141fdb9\",\"name\":\"jigu-go-kr\",\"title\":\"8.LH 택지정보\",\"type\":\"organization\",\"description\":\"택지정보 다운로드. 공간정보.\",\"image_url\":\"https://www.jigu.go.kr/images/logo.png\",\"created\":\"2021-01-28T07:27:14.157803\",\"is_organization\":true,\"approval_status\":\"approved\",\"state\":\"active\"}"
+                },
+                {
+                    "key": "owner_org",
+                    "value": "c203408e-3ab3-46bb-adc2-a62fe141fdb9"
+                },
+                {
+                    "key": "state",
+                    "value": "active"
+                },
+                {
+                    "key": "url",
+                    "value": "https://openapi.jigu.go.kr/down/detail.do?table=BLS5_DSTRC_STEP"
+                },
+                {
+                    "key": "version",
+                    "value": "2021-07-28"
+                },
+                {
+                    "key": "resources",
+                    "value": "[{\"cache_last_updated\":null,\"cache_url\":null,\"created\":\"2021-07-30T14:07:52.173549\",\"description\":\"txt, csv 파일 다운로드 링크\",\"format\":\"CSV\",\"hash\":\"\",\"id\":\"892a50f2-5e2c-4ef7-8ef4-ae07327bea28\",\"last_modified\":null,\"metadata_modified\":\"2021-07-30T14:07:52.159157\",\"mimetype\":null,\"mimetype_inner\":null,\"name\":\"단계별사업정보 LINK\",\"package_id\":\"186efdc6-7f2e-4934-8a52-03038e08458e\",\"position\":0,\"resource_type\":null,\"size\":null,\"state\":\"active\",\"url\":\"https://openapi.jigu.go.kr/down/detail.do?table=BLS5_DSTRC_STEP\",\"url_type\":null}]"
+                },
+                {
+                    "key": "groups",
+                    "value": "[]"
+                },
+                {
+                    "key": "relationships_as_subject",
+                    "value": "[]"
+                },
+                {
+                    "key": "relationships_as_object",
+                    "value": "[]"
+                },
+                {
+                    "key": "이용조건",
+                    "value": "로그인 없이 다운로드"
+                }
+            ],
+            "basicMetadata": [
+                {
+                    "id": "eb32e2c0-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb31f860-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:accessRights",
+                    "value": [
+                        {
+                            "@id": "http://purl.org/eprint/accessRights/OpenAccess"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.844Z"
+                },
+                {
+                    "id": "eb32e2c1-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb31f860-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:keyword",
+                    "value": [
+                        {
+                            "@value": "LH"
+                        },
+                        {
+                            "@value": "단계별사업정보"
+                        },
+                        {
+                            "@value": "택지"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.844Z"
+                },
+                {
+                    "id": "eb32e2c2-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb31f860-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:theme",
+                    "value": [
+                        {
+                            "@id": "default_harvesting_category"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.844Z"
+                },
+                {
+                    "id": "eb32e2c3-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb31f860-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Dataset",
+                    "propertyId": "dcterms:spatial",
+                    "value": [
+                        {
+                            "@type": "dcterms:Location",
+                            "wgs84_pos:lat": "36.8746655034521",
+                            "wgs84_pos:long": "137.37425557300952"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.844Z"
+                },
+                {
+                    "id": "eb32e2c4-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb31f860-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:title",
+                    "value": [
+                        {
+                            "@value": "택지정보 - 단계별사업정보"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.844Z"
+                },
+                {
+                    "id": "eb32e2c5-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb31f860-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:description",
+                    "value": [
+                        {
+                            "@value": "택지정보시스템에서 고시월별, 광역시도별 다운로드"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.844Z"
+                },
+                {
+                    "id": "eb32e2c6-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb31f860-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:license",
+                    "value": [
+                        {
+                            "@id": "http://www.opendefinition.org/licenses/cc-zero"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.844Z"
+                },
+                {
+                    "id": "eb32e2c7-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb31f860-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:issued",
+                    "value": [
+                        {
+                            "@value": "2021-01-30T15:43:47.759071"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.844Z"
+                },
+                {
+                    "id": "eb32e2c8-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb31f860-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:modified",
+                    "value": [
+                        {
+                            "@value": "2021-07-30T14:07:52.154721"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.844Z"
+                },
+                {
+                    "id": "eb32e2c9-2288-11ec-b008-65914240fe8f",
+                    "assetId": "eb31f860-2288-11ec-b008-65914240fe8f",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:type",
+                    "value": [
+                        {
+                            "@id": "dataset"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-10-01T07:26:39.844Z"
+                }
+            ],
+            "extendedMetadata": [],
+            "priceMetadata": [],
+            "issuerId": "pf_admin",
+            "issued": "2021-10-01T07:26:39.844Z",
+            "modifierId": "pf_admin",
+            "modified": "2021-10-01T07:29:07.074Z",
+            "harvestSourceId": "23f71475-20d9-11ec-a446-1ff7ec62d81a",
+            "purchases": 1,
+            "likes": 1,
+            "location": [
+                {
+                    "lat": 36.8746655034521,
+                    "lon": 137.37425557300952
+                }
+            ]
+        },
+        {
+            "id": "bd61bdd0-fa4c-11eb-af21-fd983a354de3",
+            "orgId": "default_org",
+            "imagePath": "images/bd61bdd1-fa4c-11eb-af21-fd983a354de3.jpg",
+            "type": "dataset",
+            "priceType": "paid",
+            "state": "registered",
+            "representativeCategoryId": "example_category11",
+            "extras": [],
+            "basicMetadata": [
+                {
+                    "id": "b3762870-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "bd61bdd0-fa4c-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:contactPoint",
+                    "value": [
+                        {
+                            "@type": "vcard:Kind",
+                            "vcard:fn": [
+                                {
+                                    "@value": "user user"
+                                }
+                            ],
+                            "vcard:hasEmail": [
+                                {
+                                    "@value": "user@sodas.etri.re.kr"
+                                }
+                            ]
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:38:41.904Z"
+                },
+                {
+                    "id": "b3762871-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "bd61bdd0-fa4c-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:title",
+                    "value": [
+                        {
+                            "@value": "경기 시내버스 승하차 이용통계",
+                            "@language": "ko"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:38:41.904Z"
+                },
+                {
+                    "id": "b3762872-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "bd61bdd0-fa4c-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:accessRights",
+                    "value": [
+                        {
+                            "@id": "http://purl.org/eprint/accessRights/OpenAccess"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:38:41.904Z"
+                },
+                {
+                    "id": "b3762873-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "bd61bdd0-fa4c-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:rights",
+                    "value": [
+                        {
+                            "@id": "http://rightsstatements.org/vocab/InC/1.0/"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:38:41.904Z"
+                },
+                {
+                    "id": "b3762874-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "bd61bdd0-fa4c-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcterms:description",
+                    "value": [
+                        {
+                            "@value": "정류장을 기준으로 경기 시내버스가 운영되는 정류장 별 승/하차 건 수, 금액을 분류한 통계자료  재판매 및 제3자의 공유, 배포 불가능  상권, 대중교통 이용 현황 분석 等",
+                            "@language": "ko"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:38:41.904Z"
+                },
+                {
+                    "id": "b3762875-1f76-11ec-a7b4-43546e7607c9",
+                    "assetId": "bd61bdd0-fa4c-11eb-af21-fd983a354de3",
+                    "profileResourceDescriptorId": "default",
+                    "classId": "dcat:Resource",
+                    "propertyId": "dcat:theme",
+                    "value": [
+                        {
+                            "@id": "example_category11"
+                        }
+                    ],
+                    "issuerId": "pf_admin",
+                    "issued": "2021-09-27T09:38:41.904Z"
+                }
+            ],
+            "extendedMetadata": [],
+            "priceMetadata": [],
+            "issuerId": "user",
+            "issued": "2021-08-11T02:35:06.669Z",
+            "modifierId": "pf_admin",
+            "modified": "2021-09-27T09:38:41.904Z",
+            "purchases": 1,
+            "likes": 1
+        }
